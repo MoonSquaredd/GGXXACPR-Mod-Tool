@@ -12,11 +12,11 @@
 
 ### Palettes (22) (0x0048AAE0)
 	
-### Extra_0 (0x004904A0)
+## Extra_0 (0x004904A0)
  
-### Extra_1 (0x00519B70)
+## Extra_1 (0x00519B70)
   
-### Extra_2 (0x005220900
+## Extra_2 (0x005220900
  
-### Sounds (Unused) (0x0053A5C0)
+## Sounds (Unused) (0x0053A5C0)
 
