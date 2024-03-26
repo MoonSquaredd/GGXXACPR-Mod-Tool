@@ -20,11 +20,11 @@ sprite_0 = Idle
 
 ### Palettes (22)
 	
-## Extra_0
+## General Effects
  
-## Extra_1
+## Moroha Mode Related
   
-## Extra_2
+## Paracelsus
  
-## Sounds (Unused)
+## Sound Effects (Unused)
 
