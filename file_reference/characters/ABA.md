@@ -3,6 +3,27 @@
 ## A.B.A (0x00000020)
 
 ### Poses (835) (0x00000040)
+	pose_0 (Idle)  = {
+		Number of Hitboxes = 2 (0x00000D50)
+  		Hitbox1 = {
+    			X_Offset = -51 (0x00000D54)
+       			Y_Offset = 42 (0x00000D56)
+	  		Width = 85 (0x00000D58)
+     			Height = 222 (0x00000D5A)
+			Type = 2 (0x00000D5C)
+			}
+   		Hitbox2 = {
+     			X_Offset = -58 (0x00000D60)
+			Y_Offset = -43 (0x00000D62)
+   			Width = 12 (0x00000D64)
+      			Height = 52 (0x00000D66)
+	 		Type = 2 (0x00000D68)
+			}
+   		Sprite_X_Offset = 59 (0x00000D6C)
+     		Sprite_Y_Offset = 104 (0x00000D6E)
+       		?? = 1 (0x00000D70)
+	 	Sprite_Index = 0 (0x00000D74)
+		}	
 
 ### Sprites (676) (0x00010EE0)
 
