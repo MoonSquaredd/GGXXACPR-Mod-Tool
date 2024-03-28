@@ -6,6 +6,25 @@ A tool that should make guilty modders lives easier
 As of 0.3.0, parse and separate the files inside the decrypted character binary into their own separated binaries
 ---
 
+# List of Features
+Character Modding (currently only already decrypted):
+- [x] Object Parser/Extractor
+- [ ] Sprite Ripping/Replacing
+- [ ] Hitbox Viewer/Editor
+
+Stage Modding:
+- [ ] Object Parser/Extractor
+- [ ] Sprite Ripping/Replacing
+- [ ] Palette Ripping (those are not available on PalMod and need to be extracted manually)
+
+Sound Replacement:
+- [ ] Music
+- [ ] Sound Effects and Voice Lines
+
+Translation:
+- [ ] General Text
+- [ ] Story Mode
+
 # How it works (technical)
 1. Reads the first 32 bits of the binary file which are pointers to the objects stored within the character file.
 2. Stores the pointer in an array then proceeds to read the next 32 bits of the binary file.
