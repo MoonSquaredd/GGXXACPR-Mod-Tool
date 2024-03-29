@@ -19,7 +19,8 @@ sprite_0 = Idle
 
 ### Scripts/Play Data
 
-### Palettes
+### Palettes (22)
+palette_0 = Default Punch
 	
 ## Extra_0
  
